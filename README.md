@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: thomascherickal@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have played the violin since 1998 but still remain at 6th grade level because I never gave it priority (had other serious jobs).
---> So glad you dropped by. Check out my Mwebsite: https://thomascherickal.com
+--> 
 
 
