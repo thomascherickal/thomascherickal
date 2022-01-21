@@ -3,9 +3,8 @@
 
 **thomascherickal/thomascherickal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomascherickal&theme=synthwave&show_icons=true “GitHub Stats")
+![GitHub stats](https://github-readme-stats.vercel.app/api/?username=thomascherickal&theme=synthwave&show_icons=true “GitHub Stats")
 
-.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomascherickal&theme=synthwave "Top Languages Card")
 
