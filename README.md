@@ -3,9 +3,9 @@
 
 **thomascherickal/thomascherickal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api/github-stats/?username=thomascherickal&theme=synthwave “GitHub Stats Card")]
+![GitHub stats](https://github-readme-stats.vercel.app/api/?username=thomascherickal&theme=synthwave “GitHub Stats Card")
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomascherickal&theme=synthwave "Top Languages Card")]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomascherickal&theme=synthwave "Top Languages Card")
 
 🔭 I’m currently working on Quantum Computing AI/ML Dynamical Systems <br>
 🌱 I’m currently learning F# and DDD, particularly, how you can build DDD into F# to build more agile software. <br>
