@@ -5,8 +5,9 @@
 
 Here are some ideas to get you started:
 
-![Thomas’ GitHub stats](https://github-readme-stats.vercel.app/api?username=thomascherickal&theme=synthwave&show_icons=true “Thomas’ GitHub Stats”)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomascherickal&theme=synthwave “Thomas’ Top Languages Card”)
+![Thomas’ GitHub stats](https://github-readme-stats.vercel.app/api?username=thomascherickal&theme=synthwave&show_icons=true “Thomas’ GitHub Stats")
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomascherickal&theme=synthwave "Thomas’ Top Languages Card")
 
 🔭 I’m currently working on Quantum Computing AI/ML Dynamical Systems <br>
 🌱 I’m currently learning F# and DDD, particularly, how you can build DDD into F# to build more agile software. <br>
