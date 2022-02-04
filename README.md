@@ -3,7 +3,7 @@
 
 **thomascherickal/thomascherickal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-🔭 I’m currently working on Quantum Computing AI/ML. <br>
+🔭 I’m currently working on Quantum Computing ML. <br>
 🌱 I’m currently learning Google TensorFlow and its highly exciting! <br>
 👯 I’m looking to collaborate on Learning F# and FsLab. <br>
 🤔 I’m looking for help with my current job situation (none). <br>
