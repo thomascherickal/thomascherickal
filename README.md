@@ -13,6 +13,6 @@
 ⚡  Fun facts: Bonus - three fun facts! <br>
 1) I love music and have always been interested in a musical career (violin and acappella bass). <br> 
 2) I love problems which let me use TDD (Test-Driven Development) and DDD (Domain-Driven Design). <br>
-3) I love God, my family, my friends, my pets, violin & vocals, badminton, math, coding and coffee. <br> 
+3) I love God, my family, my friends, my pets, swimming, badminton, math, tech, coding and coffee. <br> 
 
 
