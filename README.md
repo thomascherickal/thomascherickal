@@ -7,7 +7,7 @@
 🌱 I’m currently learning Dart & Flutter with TDD and its highly exciting! <br>
 👯 I’m looking to collaborate on Learning F# and FsLab. <br>
 🤔 I’m looking for help with my current job situation (none). <br>
-💬 Ask me about Python, Julia, F#, Dart & Flutter. <br>
+💬 Ask me about Python, Julia, Go, F#, Dart & Flutter, unit testing, TDD. <br>
 📫 How to reach me: thomascherickal@gmail.com <br>
 😄 Pronouns: he/him <br>
 ⚡  Fun facts: Bonus - three fun facts! <br>
