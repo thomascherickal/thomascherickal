@@ -10,6 +10,6 @@
 💬 Ask me about Python, Julia, F#, Dart & Flutter. <br>
 📫 How to reach me: thomascherickal@gmail.com <br>
 😄 Pronouns: he/him <br>
-⚡  Fun fact: 1) I love music and have always been interested in a musical career (violin and acappella bass). <br> 2) I love problems which let me use TDD (Test-Driven Development) <br> 
+⚡  Fun fact: 1) I love music and have always been interested in a musical career (violin and acappella bass). <br> 2) I love problems which let me use TDD (Test-Driven Development) and DDD (Domain-Driven Design).<br> 
 
 
