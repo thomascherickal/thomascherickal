@@ -7,8 +7,8 @@
 🌱 I’m currently learning Go with TDD and its highly exciting! <br>
 👯 I’m looking to collaborate on Learning F# and FsLab. <br>
 🤔 I’m looking for help with my current job situation (none). <br>
-💬 Ask me about Python, Julia, Go, Dart & Flutter,F#.NET, AI/ML, DevOps, MLOps, TDD, GitHub Copilot. <br>
-📫 How to reach me: thomascherickal@gmail.com <br>
+💬 Ask me about Python, Julia, Go, Dart & Flutter, F#.NET, AI/ML, DevOps, MLOps, TDD, GitHub Copilot. <br>
+📫 How to reach me: thomascherickal@gmail.com / +91-9884452724 <br>
 😄 Pronouns: he/him <br>
 ⚡  Fun facts: Bonus - three fun facts and three pro facts! <br>
 1) I love music and have always been interested in a musical career (violin and acappella bass). <br> 
