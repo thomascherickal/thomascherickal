@@ -13,11 +13,11 @@
 ⚡  Fun facts: Bonus - three fun facts and three pro facts! <br>
 1) I love music and have always been interested in a musical career (violin and acappella bass). <br> 
 2) I love problems which let me use TDD (Test-Driven Development) and I aim for 100% code coverage. <br>
-3) I love God, my family, my friends, my pets, swimming, badminton, table tennis, hot chocolate,and coffee. <br>
+3) I love God, my family, my friends, my pets, swimming, badminton, table tennis, hot chocolate, and strong coffee. <br>
 * Further Expertise: Scikit-Learn, IBM Qiskit, PyTorch, fast.ai, Google Tensorflow, TensorFlow Quantum, PennyLane.<br>
 * Specialization: Designing Quantum Algotihms in Yao.jl.<br>
 * I have always been a fast learner and with TDD, I can learn new tech in 30 days max (mostly).    <br>
 
-I also love working in teams.
+#### I also love working in teams.
 
 
