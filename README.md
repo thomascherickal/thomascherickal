@@ -5,7 +5,7 @@
 
 🔭 I’m currently working on Quantum ML and integrating GitHub Copilot into my workflow. <br>
 🌱 I’m currently learning MLOps with scikit-learn and its highly exciting! <br>
-👯 I’m looking to collaborate on Learning F# and DDD. <br>
+👯 I’m looking to collaborate on Learning Quantum Computing coherently. <br>
 🤔 I’m looking for help with my current job situation (none). <br>
 💬 Ask me about Python, AI/ML, DevOps, MLOps, TDD, GitHub Copilot. <br>
 📫 How to reach me: thomascherickal@gmail.com / +91-9884452724 <br>
