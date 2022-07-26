@@ -3,7 +3,7 @@
 
 **thomascherickal/thomascherickal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-🔭 I’m currently working on Quantum ML and integrating GitHub Copilot into my workflow. <br>
+🔭 I’m currently working on Dart & Flutter freelancing and integrating GitHub Copilot into my workflow. <br>
 🌱 I’m currently learningmobile development with Flutter and its highly exciting! <br>
 👯 I’m looking to collaborate on Learning Quantum Computing coherently. <br>
 🤔 I’m looking for help with my current job situation (none). <br>
