@@ -4,10 +4,10 @@
 **thomascherickal/thomascherickal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🔭 I’m currently working on Dart & Flutter freelancing and integrating GitHub Copilot into my workflow. <br>
-🌱 I’m currently learningmobile development with Flutter and its highly exciting! <br>
+🌱 I’m currently learning mobile development with Flutter and its highly exciting! <br>
 👯 I’m looking to collaborate on Learning Quantum Computing coherently. <br>
 🤔 I’m looking for help with my current job situation (none). <br>
-💬 Ask me about Python, Dart, Flutter, Golang, F#.NET, C,  DevOps, TDD, DDD, GitHub Copilot. <br>
+💬 Ask me about Python, Julia, Golang, Dart & Flutter, F#.NET, C,  DevOps, TDD, DDD, GitHub Copilot. <br>
 📫 How to reach me: thomascherickal@gmail.com / +91-9884452724 <br>
 😄 Pronouns: he/him <br>
 ⚡  Fun facts: Bonus - three fun facts! <br>
