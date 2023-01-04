@@ -1,6 +1,6 @@
 ### Shalom 👋
 
-🔭 I’m currently working on Dart & Flutter freelancing. <br>
+🔭 I’m currently working on Dart & Flutter. <br>
 🌱 I’m currently learning mobile development with Flutter and its highly exciting! <br>
 👯 I’m looking to collaborate on Learning Quantum Computing coherently. <br>
 🤔 I’m looking for help with my current job situation (none). <br>
