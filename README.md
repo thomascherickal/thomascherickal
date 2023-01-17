@@ -1,6 +1,6 @@
 ### Shalom 👋
 
-🔭 I’m currently working on ChatGPT. <br>
+🔭 I’m currently working on Dart and Flutter formally. <br>
 🌱 I’m currently learning custom applications with ChatGPT and its highly exciting! <br>
 👯 I’m looking to collaborate on Learning Quantum Computing coherently. <br>
 🤔 I’m looking for help with my current job situation (none). <br>
