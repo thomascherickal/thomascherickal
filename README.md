@@ -1,10 +1,10 @@
 ### Shalom 👋
 
-🔭 I’m currently working on Dart and Flutter formally. <br>
+🔭 I’m currently working on Dart and Flutter mobile development with TDD & DDD. <br>
 🌱 I’m currently learning custom applications with ChatGPT and its highly exciting! <br>
 👯 I’m looking to collaborate on Learning Quantum Computing coherently. <br>
-🤔 I’m looking for help with my current job situation (none). <br>
-💬 Ask me about Python, Julia, Go, Dart & Flutter, C, VB.NET, DevOps, TDD, DDD, ChatGPT. <br>
+🤔 I’m looking for help with my current research situation (independent).
+💬 Ask me about Python, Julia, Go, Dart & Flutter, VB.NET, DevOps, TDD, DDD, ChatGPT. <br>
 📫 How to reach me: thomascherickal@gmail.com / +91-9884452724 <br>
 😄 Pronouns: he/him <br>
 ⚡  Fun facts: Bonus - three fun facts! <br>
