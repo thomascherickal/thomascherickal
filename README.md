@@ -2,7 +2,7 @@
 🌱 I’m doing coding competition puzzles and getting addicted to it. Falling in love with code again is highly exciting! <br>
 👯 I’m looking to collaborate on Learning Quantum Computing coherently. <br>
 🤔 I’m looking for help with my current research situation (independent).<br>
-💬 Ask me about Python, Julia, Golang, C, Rust, VB.NET, F#.NET, Dart & Flutter, DevOps, TDD, DDD, ChatGPT. <br>
+💬 Ask me about Python, DevOps, ML, AI, RL, DL, GL, TDD, DDD, BDD, ChatGPT. <br>
 📫 How to reach me: thomascherickal@gmail.com / +91-9884452724 <br>
 😄 Pronouns: he/him <br>
 ⚡  Fun facts: Bonus - four fun facts! <br>
