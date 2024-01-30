@@ -1,8 +1,8 @@
 # Shalom 👋
 🌱 I’m doing coding competition puzzles and getting addicted to it. Falling in love with code again is highly exciting! <br>
 👯 I’m looking to collaborate on Learning Quantum Computing coherently. <br>
-🤔 I’m looking for help with my current research situation (independent).<br>
-💬 Expertise: Python, Julia, Golang, Dart, Flutter, Django, Flask, Qiskit, Quantum Computing, Machine Learning, Deep Learning, Generative AI, MySQL, SQLite, TDD, DDD, LLMs, Google DeepMind, OpenAI Gym, Deep Reinforcement Learning. <br>
+🤔 I’m looking for help with my current research situation (independent). I want to conduct research in Transformers. <br>
+💬 Expertise: Python, Dart, Flutter, Rust, VB.NET, Django, Flask, Qiskit, Quantum Computing, Machine Learning, Deep Learning, Generative AI, MySQL, SQLite, TDD, DDD, LLMs, Google DeepMind, OpenAI Gym, Deep Reinforcement Learning. <br>
 📫 How to reach me: thomascherickal@gmail.com / +91-9884452724 <br>
 😄 Pronouns: he/him <br>
 ⚡  Fun facts: Bonus - four fun facts! <br>
