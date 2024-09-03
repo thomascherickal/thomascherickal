@@ -5,7 +5,7 @@
 🌱 I’m doing coding competition puzzles and getting addicted to it. Falling in love with code again is highly exciting! <br>
 👯 I’m looking to collaborate on Learning Quantum Computing coherently. <br>
 🤔 I’m looking for help with my current work situation (freelance). I love writing thought leadership posts about AGI and Emerging Technologies. <br>
-💬 Expertise: Python, Julia, Golang, Dart & Flutter, Rust, C, AI, ML, DL, RL, Generative AI, Quantum Computing, SingleStore, DeepLake, MySQL, SQLite, LLMs, LMMs. <br>
+💬 Expertise: Python, Julia, Golang, Dart & Flutter, Rust, C, AI, ML, DL, RL, Generative AI, LLMs, LMMs, Blockchain, Quantum. <br>
 📫 How to reach me: thomascherickal@gmail.com / +91-9884452724 <br>
 😄 Pronouns: he/him <br>
 ⚡  Fun facts: Bonus - four fun facts! <br>
