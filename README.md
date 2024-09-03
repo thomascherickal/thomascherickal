@@ -1,11 +1,11 @@
 # Shalom 👋
 
-* All my online services on a single link: [My Online Store](https://linktr.ee/thomascherickal/store)
+* All my online services on a single link: [My Online Portfolio](https://linktr.ee/thomascherickal)
 
 🌱 I’m doing coding competition puzzles and getting addicted to it. Falling in love with code again is highly exciting! <br>
 👯 I’m looking to collaborate on Learning Quantum Computing coherently. <br>
 🤔 I’m looking for help with my current work situation (freelance). I love writing thought leadership posts about AGI and Emerging Technologies. <br>
-💬 Expertise: Python, Julia, Golang, Dart, Flutter, Rust, Mojo, C, C++, Java, C#.NET, F#.NET, VB.NET, Django, Flask, Qiskit, Quantum Computing, Machine Learning, Deep Learning, Generative AI, SingleStore, DeepLake, MySQL, SQLite, TDD, DDD, LLMs, Google DeepMind, OpenAI Gym, Deep Reinforcement Learning. <br>
+💬 Expertise: Python, Julia, Golang, Dart & Flutter, Rust, C, AI, ML, DL, RL, Generative AI, Quantum Computing, SingleStore, DeepLake, MySQL, SQLite, LLMs, LMMs. <br>
 📫 How to reach me: thomascherickal@gmail.com / +91-9884452724 <br>
 😄 Pronouns: he/him <br>
 ⚡  Fun facts: Bonus - four fun facts! <br>
