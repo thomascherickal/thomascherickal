@@ -5,7 +5,7 @@
 🌱 I’m doing coding competition puzzles and getting addicted to it. <br>
 👯 I’m looking to collaborate on Learning Quantum Computing coherently. <br>
 🤔 I’m looking for help with my current work situation (freelance). I love writing thought leadership posts about AI, Blockchain, Quantum, the latest research, and Emerging Technologies. <br>
-💬 Expertise: Writer turned Coder turned Developer turned Researcher. Expert in Python, Julia, Golang, Dart, Flutter, Rust, C, C++, TDD, DDD, BDD, DevOps, MLOps, AIOps, DataOps, GitOps, AI, ML, DL, RL, GL, Scikit-Learn, PyTorch, TensorFlow, Google DeepMind, Generative AI, HuggingFace Models, HuggingFace App Market, xLLMs, SLMs, LLMs, LMMs, Blockchain, DeFi, Crypto, Web3, IBM Qiskit, TF Quantum, PennyLane, Quantum Computation, Quantum Applications, Quantum AI. **However, right now, only writing about these topics.** <br>
+💬 Expertise: Writer turned Coder turned Developer turned Researcher. Expert in Python, DevOps, MLOps, TDD, DDD, AI, ML, DL, RL, GL, Google DeepMind, Generative AI, HuggingFace Models, HuggingFace App Market, xLLMs, SLMs, LLMs, LMMs, Blockchain, DeFi, Crypto, Web3, IBM Qiskit, PennyLane, Quantum Computation, Quantum Applications, Quantum AI. **However, right now, only writing about these topics.** <br>
 📫 How to reach me: thomascherickal@gmail.com | Note: Freelance Work only. | <br>
 ⚡  Fun facts: Bonus - four fun facts! <br>
 1) I have always been interested in a musical career (violinist, gospel music, church music, and choral 4-part harmony 2nd Bass). <br> 
