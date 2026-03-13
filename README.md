@@ -4,8 +4,8 @@
 
 🌱 I’m doing coding competition puzzles and getting addicted to it. <br>
 👯 I’m looking to collaborate on Learning Quantum Computing coherently. <br>
-🤔 I’m looking for help with my current work situation (freelance). I love writing thought leadership posts about Generative AI, QAI, Blockchain, Quantum Computation, Open Source, AI Agents, and AI Automation. <br>
-💬 Expertise: Developer turned Writer turned Researcher. Expert in Python, Git, GitHub, TDD, AI, ML, DL, RL, GL, Google DeepMind, Generative AI, HuggingFace Models, HuggingFace App Market, xLLMs, SLMs, LLMs, LMMs, AI Tools, Quantum Computation, Quantum Applications, QAI. **However, right now, just writing about these topics.** <br>
+🤔 I love writing thought leadership posts about Generative AI, AI Agents, Blockchain, DeFi, Web3, Quantum Computation, QAI, Cybersecurity, Research, Open Source, Emerging Technologies, and the Latest Developments. <br>
+💬 Expertise: Developer turned Writer turned Researcher turned Author. Expert in Python, Mojo, Git, GitHub, TDD, AI, ML, DL, RL, GL, OpenAI Gym, Google DeepMind, Generative AI, HuggingFace Models, HuggingFace App Market, SLMs, LLMs, LMMs, AI Tools, Quantum Computation, QAI, Blockchain, DeFi, Web3, Cybersecurity, Research & Development. **However, right now, just writing about these topics.** <br>
 📫 How to reach me fast: [LinkedIn Profile](https://linkedin.com/in/thomascherickal)  <br>
 ⚡  Fun facts: Bonus - four fun facts! <br>
 1) I have always been interested in a musical career (violinist, gospel music, church music, and choral 4-part harmony, 1st Bass). <br> 
