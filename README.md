@@ -1,11 +1,11 @@
 # Shalom 👋
-
+I mentor you to build your online brand.
 * All my online services on a single link: [My Online Portfolio](https://linktr.ee/thomascherickal)
 
 🌱 I’m doing coding competition puzzles and getting addicted to it. <br> 
 👯 I’m looking to collaborate on Learning Quantum Computing coherently. <br>
 🤔 I love writing thought leadership posts about Generative AI, AI Agents, Blockchain, DeFi, Web3, Quantum Computation, QAI, Cybersecurity, Research, Open Source, Emerging Technologies, and the Latest Developments. <br>
-💬 Expertise: Developer turned Writer turned Researcher turned Author. Expert in Python, Mojo, Git, GitHub, TDD, AI, ML, DL, RL, Google DeepMind, Generative AI, HuggingFace Models, HuggingFace App Market, SLMs, LLMs, AI Tools, Quantum Computation, QAI, Blockchain, DeFi, Web3, Cybersecurity, Research & Development. **However, right now, just writing about these topics.** <br>
+💬 Expertise: Developer turned Writer turned Researcher turned Author. Expert in Python, Golang, Rust, Mojo, Git, GitHub, TDD, AI, ML, DL, RL, Google DeepMind, Generative AI, HuggingFace Models, HuggingFace App Market, SLMs, LLMs, AI Tools, Quantum Computation, QAI, Blockchain, DeFi, Web3, Cybersecurity, Research & Development. **However, right now, just writing about these topics.** <br>
 📫 How to reach me fast: [LinkedIn Profile](https://linkedin.com/in/thomascherickal)  <br>
 ⚡  Fun facts: Bonus - four fun facts! <br>
 1) I have always been interested in a musical career (violinist, gospel music, church music, and choral 4-part harmony, 1st Bass). <br> 
