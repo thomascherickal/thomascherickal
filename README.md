@@ -1,7 +1,6 @@
 # Shalom 👋
-# Thomas Cherickal
 
-**Technical Content Writer · AI Mentor & Coach · Independent Research Blogger · AI Consultant · Open Source Gen AI Developer · Author**
+**Technical Content Writer · AI Mentor & Coach · Independent Research Blogger · AI Consultant · Open Source Developer · Author**
 
 📍 Chennai, India &nbsp;|&nbsp; 🌐 [thomascherickal.com](https://thomascherickal.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/thomascherickal) &nbsp;|&nbsp; 🔗 [All Links](https://linktr.ee/thomascherickal)
 
@@ -37,7 +36,7 @@ My canonical site is [thomascherickal.com](https://thomascherickal.com).
 - Generative AI, LLMs, SLMs, LMMs, and AI Agents
 - Quantum Computing and Quantum AI (QAI)
 - Blockchain, DeFi, Web3, Smart Contracts, and Distributed Ledger Technology
-- Cybersecurity, DevSecOps, and Open Source
+- Cybersecurity and Open Source
 - Emerging Technologies, AGI, and Research & Development
 
 ---
@@ -46,7 +45,7 @@ My canonical site is [thomascherickal.com](https://thomascherickal.com).
 
 ### Programming Languages
 
-- Python, Rust, Julia, Golang
+- Python, Rust, Golang, Mojo
 - Dart & Flutter, C, C++
 
 ### AI / Machine Learning / Generative AI
@@ -63,7 +62,6 @@ My canonical site is [thomascherickal.com](https://thomascherickal.com).
 - IBM Qiskit, Google Cirq
 - PennyLane (Quantum AI), TensorFlow Quantum
 - Quantum Mechanics, Quantum Applications, Quantum AI (QAI)
-- String Theory, Particle Physics (theoretical background)
 
 ### Web Frameworks & APIs
 
@@ -77,8 +75,8 @@ My canonical site is [thomascherickal.com](https://thomascherickal.com).
 
 ### DevOps & Cloud
 
-- Git, GitHub, GitLab, GitOps
-- Docker, Kubernetes
+- Git, GitHub, GitLab
+- Docker, Jenkins, Ansible
 - Google Cloud Platform (GCP)
 - Ubuntu Linux, Android
 
@@ -98,9 +96,9 @@ My canonical site is [thomascherickal.com](https://thomascherickal.com).
 
 ### Mathematics & Algorithms
 
-- Metaheuristics: Genetic Algorithms, Evolutionary Computation, Particle Swarm Optimisation, DEAP
+- Metaheuristics: Genetic Algorithms, Evolutionary Computation, DEAP
 - Engineering Mathematics, Numerical Recipes, Concrete Mathematics
-- Optimisation, Complexity Theory, Chaos Theory
+- Optimization, Complexity Theory, Chaos Theory
 
 ---
 
