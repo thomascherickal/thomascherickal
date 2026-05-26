@@ -26,9 +26,14 @@ My portfolio page is [thomascherickal.github.io](https://thomascherickal.github.
 | **Independent Research Blogger** | Original analysis and commentary on emerging technology trends |
 | **AI Consultant** | Strategic AI integration advisory for individuals and small teams |
 | **Developer** | Application development in Python, Golang, Rust, Mojo, and a broad multi-language stack |
+| **Generative AI Engineer** | Design and development of GenAI systems, AI workflows, autonomous agents, and multimodal applications |
+| **LLM Engineer** | Building, fine-tuning, optimizing, and deploying Large Language Model powered applications and pipelines |
+| **SLM Engineer** | Development and optimization of Small Language Models for efficient, lightweight, and edge-based AI systems |
+| **Local AI Engineer** | Deployment and optimization of private, offline, and self-hosted AI systems on local hardware environments |
+| **SLM Deployment Specialist** | Implementation, quantization, orchestration, and production deployment of Small Language Models across devices |
 | **Author** | *RECRUITED* — an AI-powered career development guide |
 | **Quantum Computing Researcher** | Research and writing on QC, QAI, and post-classical computing paradigms |
-| **Open Source Advocate** | Active contributor and evangelist for open source software and communities |
+| **Open Source Advocate** | Active contributor and evangelist for open source
 
 ---
 
