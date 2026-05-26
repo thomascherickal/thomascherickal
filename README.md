@@ -10,9 +10,9 @@
 
 Developer | Writer | Researcher | Author. I operate under the brand **The Digital Futurist** and specialise in making advanced technology accessible, rigorous, and actionable for both technical and non-technical audiences.
 
-With over **500 published articles** across **10+ platforms**, I write about Generative AI, Quantum Computing, Blockchain, Cybersecurity, and the full spectrum of emerging technologies. My background spans development in Python, Golang, Rust, and Mojo, (a niche Gen AI programming language),  quantum computing research, and long-form technical journalism — giving my writing both depth and credibility.
+With over **500 published articles** across **10+ platforms**, I write about Generative AI, Quantum Computing and Quantum AI, Blockchain and AI, AI and Cybersecurity, and the full spectrum of emerging AI technologies. My background spans development in Python, Golang, Rust, and Mojo, (a niche Gen AI programming language),  quantum computing research, and long-form technical journalism — giving my writing and development both depth and credibility.
 
-My canonical site is [thomascherickal.com](https://thomascherickal.com).
+My canonical site is [thomascherickal.com](https://thomascherickal.com). <br>
 My portfolio page is [thomascherickal.github.io](https://thomascherickal.github.io)
 
 ---
