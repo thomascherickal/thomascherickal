@@ -2,7 +2,7 @@
 
 **Technical Content Writer · AI Mentor & Coach · Independent Research Blogger · AI Consultant · Open Source Developer · Author**
 
-📍 Chennai, India &nbsp;|&nbsp; 🌐 [thomascherickal.com](https://thomascherickal.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/thomascherickal) &nbsp;|&nbsp; 🔗 [All Links](https://linktr.ee/thomascherickal)
+📍 Chennai, India &nbsp;|&nbsp; 🏠 [thomascherickal.com](https://thomascherickal.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/thomascherickal) &nbsp;|&nbsp; 🔗 [All Links](https://linktr.ee/thomascherickal) &nbsp;|&nbsp; 🌐 [Portfolio Website](https://thomascherickal.github.io)
 
 ---
 
