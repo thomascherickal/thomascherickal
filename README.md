@@ -1,6 +1,6 @@
 # Shalom 👋
 
-**Generative AI Engineer · SLM Engineer · LLM Engineer · Technical Content Writer · AI Mentor & Coach · Independent Research Blogger · Generative AI Consultant · Open Source Developer*
+*Generative AI Engineer · SLM Engineer · LLM Engineer · Quantum Computing Expert · Blockchain AI Evangelist ·  Technical Content Writer · AI Mentor & Coach · Independent Research Blogger · Generative AI Consultant · Local AI Engineer · Open Source Developer*
 
 📍 Chennai, India &nbsp;|&nbsp; 🏠 [Canonical Website](https://thomascherickal.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/thomascherickal) &nbsp;|&nbsp; 🔗 [All Links](https://linktr.ee/thomascherickal) &nbsp;|&nbsp; 🌐 [Portfolio Page](https://thomascherickal.github.io)
 
