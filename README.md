@@ -1,8 +1,8 @@
 # Shalom 👋
 
-**Technical Content Writer · AI Mentor & Coach · Independent Research Blogger · AI Consultant · Open Source Developer · Author**
+**Generative AI Engineer · SLM Engineer · LLM Engineer · Technical Content Writer · AI Mentor & Coach · Independent Research Blogger · Generative AI Consultant · Open Source Developer*
 
-📍 Chennai, India &nbsp;|&nbsp; 🏠 [thomascherickal.com](https://thomascherickal.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/thomascherickal) &nbsp;|&nbsp; 🔗 [All Links](https://linktr.ee/thomascherickal) &nbsp;|&nbsp; 🌐 [Portfolio Website](https://thomascherickal.github.io)
+📍 Chennai, India &nbsp;|&nbsp; 🏠 [Canonical Website](https://thomascherickal.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/thomascherickal) &nbsp;|&nbsp; 🔗 [All Links](https://linktr.ee/thomascherickal) &nbsp;|&nbsp; 🌐 [Portfolio Page](https://thomascherickal.github.io)
 
 ---
 
@@ -10,9 +10,10 @@
 
 Developer | Writer | Researcher | Author. I operate under the brand **The Digital Futurist** and specialise in making advanced technology accessible, rigorous, and actionable for both technical and non-technical audiences.
 
-With over **500 published articles** across **10+ platforms**, I write about Generative AI, Quantum Computing, Blockchain, Cybersecurity, and the full spectrum of emerging technologies. My background spans systems-level development in Python and Rust, quantum computing research, and long-form technical journalism — giving my writing both depth and credibility.
+With over **500 published articles** across **10+ platforms**, I write about Generative AI, Quantum Computing, Blockchain, Cybersecurity, and the full spectrum of emerging technologies. My background spans development in Python, Golang, Rust, and Mojo, (a niche Gen AI programming language),  quantum computing research, and long-form technical journalism — giving my writing both depth and credibility.
 
 My canonical site is [thomascherickal.com](https://thomascherickal.com).
+My portfolio page is [thomascherickal.github.io](https://thomascherickal.github.io)
 
 ---
 
@@ -24,8 +25,8 @@ My canonical site is [thomascherickal.com](https://thomascherickal.com).
 | **AI Mentor & Coach** | One-on-one guidance for individuals navigating AI tools, skills, and career transitions |
 | **Independent Research Blogger** | Original analysis and commentary on emerging technology trends |
 | **AI Consultant** | Strategic AI integration advisory for individuals and small teams |
-| **Developer** | Systems and application development in Python, Rust, and a broad multi-language stack |
-| **Author** | *RECRUITED* — an AI-powered career development guide (launching August 2026) |
+| **Developer** | Application development in Python, Golang, Rust, Mojo, and a broad multi-language stack |
+| **Author** | *RECRUITED* — an AI-powered career development guide |
 | **Quantum Computing Researcher** | Research and writing on QC, QAI, and post-classical computing paradigms |
 | **Open Source Advocate** | Active contributor and evangelist for open source software and communities |
 
@@ -139,9 +140,9 @@ Canonical site: [thomascherickal.com](https://thomascherickal.com)
 
 | | |
 |---|---|
-| **Pre-order price** | $10 USD |
+| **Pre-order price** | $5 USD |
 | **Free with** | Active [Patreon](https://patreon.com/thomascherickal) subscription |
-| **Launch price** | $30 USD from 15 August 2026 |
+| **Launch price** | $10 USD |
 | **Pre-order** | [thomascherickal.com/recruited](https://thomascherickal.com/recruited) |
 
 ---
@@ -150,11 +151,11 @@ Canonical site: [thomascherickal.com](https://thomascherickal.com)
 
 | Service | Link |
 |---|---|
-| 🗓️ 1-on-1 Consults | [topmate.io/thomascherickal](https://topmate.io/thomascherickal) |
+| 🗓️ 1-on-1 Consultations | [topmate.io/thomascherickal](https://topmate.io/thomascherickal) |
 | 🛒 Digital Products & Playbooks | [thomascherickal.gumroad.com](https://thomascherickal.gumroad.com) |
 | 📚 Exclusive Member Content | [patreon.com/thomascherickal](https://patreon.com/thomascherickal) |
 
-**Open to:** Technical writing collaborations · AI consulting · Sponsored content · Course collaborations · AI upskilling and mentoring (all levels)
+**Open to:** Programming work · Technical writing collaborations · AI consulting · Sponsored content · Course collaborations · AI upskilling and mentoring (all levels)
 
 For a free initial conversation: [Connect on LinkedIn](https://linkedin.com/in/thomascherickal)
 
@@ -186,4 +187,4 @@ For a free initial conversation: [Connect on LinkedIn](https://linkedin.com/in/t
 
 ---
 
-*© 2026 Thomas Cherickal · The Digital Futurist · [thomascherickal.com](https://thomascherickal.com) · Chennai, India*
+*© 2026 Thomas Cherickal · The Digital Futurist · [thomascherickal.com](https://thomascherickal.com) · [thomascherickal.github.io](https://thomascherickal.github.io) · Chennai, India*
