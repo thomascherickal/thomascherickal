@@ -1,6 +1,6 @@
 # Shalom 👋
 
-*Generative AI Engineer · SLM Engineer · LLM Engineer · Quantum Computing Expert · Blockchain AI Evangelist ·  Technical Content Writer · AI Mentor & Coach · Independent Research Blogger · Generative AI Consultant · Local AI Engineer · Open Source Developer*
+*Rust AI Engineer · Python AI Engineer · Generative AI Engineer · SLM Engineer · LLM Engineer · Quantum Computing Expert · Blockchain AI Evangelist ·  Technical Content Writer · AI Mentor & Coach · Independent Research Blogger · Generative AI Consultant · Local AI Engineer · Open Source Developer*
 
 📍 Chennai, India &nbsp;|&nbsp; 🏠 [Canonical Website](https://thomascherickal.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/thomascherickal) &nbsp;|&nbsp; 🔗 [All Links](https://linktr.ee/thomascherickal) &nbsp;|&nbsp; 🌐 [Portfolio Page](https://thomascherickal.github.io)
 
@@ -21,6 +21,7 @@ My portfolio page is [thomascherickal.github.io](https://thomascherickal.github.
 
 | Role | Description |
 |---|---|
+| **Rust AI Engineer** | I convert Python code to reliable Rust systems with 100% code coverage and Test-Driven Development |
 | **Technical Content Writer** | Long-form articles, deep dives, and opinion pieces on AI, Quantum, Web3, and Cybersecurity |
 | **AI Mentor & Coach** | One-on-one guidance for individuals navigating AI tools, skills, and career transitions |
 | **Independent Research Blogger** | Original analysis and commentary on emerging technology trends |
@@ -184,11 +185,11 @@ For a free initial conversation: [Connect on LinkedIn](https://linkedin.com/in/t
 
 1. **Music runs deep.** I have always been drawn to a musical career — violinist, gospel music, church music, and choral four-part harmony where I sing 1st Bass.
 
-2. **I take testing seriously.** I love problems that let me apply Test-Driven Development, and I aim for 100% code coverage on my own self-directed projects.
+2. **I take testing seriously.** I love problems that let me apply Test-Driven Development, and I aim for 100% code coverage in my projects.
 
 3. **Outside the screen.** I love God, my family, my friends, and my pets. I enjoy swimming, badminton, table tennis, hot chocolate, and strong coffee.
 
-4. **Coding as a creative act.** I love coding for myself and have a deep passion for solving programming puzzles. I am a creative by calling — and I love working in teams.
+4. **Coding as a creative act.** I love coding; it's my passion, and I have a deep love for it. I am a technical creative by calling — and I love working in teams.
 
 ---
 
