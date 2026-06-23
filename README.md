@@ -1,6 +1,6 @@
 # Shalom 👋
 
-*Rust AI Engineer · Python AI Engineer · Generative AI Engineer · SLM Engineer · LLM Engineer · Quantum Computing Expert · Blockchain AI Evangelist ·  Technical Content Writer · AI Mentor & Coach · Independent Research Blogger · Generative AI Consultant · Local AI Engineer · Open Source Developer*
+*Rust AI Engineer · Python AI Engineer · Generative AI Engineer · SLM Engineer · LLM Engineer · Technical Content Writer · AI Mentor & Coach · Independent Research Blogger · Generative AI Consultant · Local AI Engineer · Open Source Developer*
 
 📍 Chennai, India &nbsp;|&nbsp; 🏠 [Canonical Website](https://thomascherickal.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/thomascherickal) &nbsp;|&nbsp; 🔗 [All Links](https://linktr.ee/thomascherickal) &nbsp;|&nbsp; 🌐 [Portfolio Page](https://thomascherickal.github.io)
 
@@ -10,7 +10,7 @@
 
 Developer | Writer | Researcher | Author | AI Engineer
 
-I build at the bleeding edge of Generative AI, AI systems engineering, cross-domain expertise, SLM deployment, and technical research storytelling. From engineering local LLM stacks to writing 10,000-word deep dives on frontier models: I turn complexity into clarity and code into production value. My mission: make Generative AI, Blockchain AI, Quantum AI, and Local AI accessible to everyone. I believe Rust is the future of AI and programming, and I want to be an early adopter and work as a Rust AI Engineer. I dream of rewriting the AI stack and the Generative AI stack in Rust. I am also fluent in Claude Code and Antigravity.
+I build at the bleeding edge of Generative AI, AI systems engineering, cross-domain expertise, SLM deployment, and technical research storytelling. From engineering local LLM stacks to writing 10,000-word deep dives on frontier models: I turn complexity into clarity and code into production value. I believe Rust is the future of AI and programming, and I want to be an early adopter and work as a Rust AI Engineer. I dream of rewriting the AI stack and the Generative AI stack in Rust. I am also fluent in Claude Code and Antigravity.
 
 My canonical site is [thomascherickal.com](https://thomascherickal.com) <br>
 My portfolio page is [thomascherickal.github.io](https://thomascherickal.github.io)
@@ -21,7 +21,7 @@ My portfolio page is [thomascherickal.github.io](https://thomascherickal.github.
 
 | Role | Description |
 |---|---|
-| **Rust AI Engineer** | I convert Python code to reliable Rust systems with 100% code coverage and Test-Driven Development |
+| **Rust/Python AI/ML Engineer** | I convert Python code to reliable Rust systems with 100% code coverage and Test-Driven Development |
 | **Technical Content Writer** | Long-form articles, deep dives, and opinion pieces on AI, Quantum, Web3, and Cybersecurity |
 | **AI Mentor & Coach** | One-on-one guidance for individuals navigating AI tools, skills, and career transitions |
 | **Independent Research Blogger** | Original analysis and commentary on emerging technology trends |
@@ -32,8 +32,7 @@ My portfolio page is [thomascherickal.github.io](https://thomascherickal.github.
 | **SLM Engineer** | Development and optimization of Small Language Models for efficient, lightweight, and edge-based AI systems |
 | **Local AI Engineer** | Deployment and optimization of private, offline, and self-hosted AI systems on local hardware environments |
 | **SLM Deployment Specialist** | Implementation, quantization, orchestration, and production deployment of Small Language Models across devices |
-| **Author** | *RECRUITED* — an AI-powered career development guide |
-| **Quantum Computing Researcher** | Research and writing on QC, QAI, and post-classical computing paradigms |
+| **Author-in-Progress** | *RECRUITED* — an AI-powered career development guide |
 | **Open Source Advocate** | Active contributor and evangelist for open source
 
 ---
@@ -53,7 +52,6 @@ My portfolio page is [thomascherickal.github.io](https://thomascherickal.github.
 ### Programming Languages
 
 - Python, Rust, Golang, Mojo
-- Dart & Flutter, C, C++
 
 ### AI / Machine Learning / Generative AI
 
@@ -61,7 +59,7 @@ My portfolio page is [thomascherickal.github.io](https://thomascherickal.github.
 - Deep Learning (DL), Machine Learning (ML), Reinforcement Learning (RL)
 - HuggingFace Models & App Market, Transformers
 - PyTorch, TensorFlow, Keras, Scikit-Learn
-- LangChain, AutoGPT, ChatGPT / GPT-4, Google DeepMind
+- LangChain, AutoGPT, ChatGPT, Google DeepMind
 - Google Colab, Gradient Notebooks
 
 ### Quantum Computing
@@ -176,7 +174,6 @@ For a free initial conversation: [Connect on LinkedIn](https://linkedin.com/in/t
 | Azure DevOps | [dev.azure.com/thomascherickal](https://dev.azure.com/thomascherickal) |
 | LeetCode | [leetcode.com/u/thomascherickal](https://leetcode.com/u/thomascherickal) |
 | HackerRank | [hackerrank.com/profile/thomascherickal](https://hackerrank.com/profile/thomascherickal) |
-| TUF (Take U Forward) | [takeuforward.org/profile/thomascherickal](https://takeuforward.org/profile/thomascherickal) |
 | CodersRank | [profile.codersrank.io/user/thomascherickal](https://profile.codersrank.io/user/thomascherickal/) |
 
 ---
