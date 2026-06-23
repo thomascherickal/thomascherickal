@@ -123,10 +123,6 @@ My portfolio page is [thomascherickal.github.io](https://thomascherickal.github.
 | Substack | [thomascherickal.substack.com](https://thomascherickal.substack.com) |
 | Dev.to | [dev.to/thomascherickal](https://dev.to/thomascherickal) |
 | Hashnode | [hashnode.com/@thomascherickal](https://hashnode.com/@thomascherickal) |
-| Differ | [differ.com/@thomascherickal](https://differ.com/@thomascherickal) |
-| Blogger | [thomascherickal.blogspot.com](https://thomascherickal.blogspot.com) |
-| Tumblr | [tumblr.com/thomascherickal](https://www.tumblr.com/thomascherickal) |
-| Bluesky | [bsky.app/profile/thomascherickal](https://bsky.app/profile/thomascherickal.bsky.social) |
 | LinkedIn | [linkedin.com/in/thomascherickal](https://linkedin.com/in/thomascherickal) |
 | Linktree | [linktr.ee/thomascherickal](https://linktr.ee/thomascherickal) |
 | Gumroad | [thomascherickal.gumroad.com](https://thomascherickal.gumroad.com) |
