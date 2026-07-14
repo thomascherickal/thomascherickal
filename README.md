@@ -1,6 +1,6 @@
 # Shalom 👋
 
-*Rust AI Engineer · Python AI Engineer · Generative AI Engineer · SLM Engineer · LLM Engineer · Technical Content Writer · AI Mentor & Coach · Independent Research Blogger · Generative AI Consultant · Local AI Engineer · Open Source Developer*
+*Rust AI Engineer · Golang AI Engineer · Python AI Engineer · Generative AI Engineer · SLM Engineer · LLM Engineer · Technical Content Writer · AI Mentor & Coach · Independent Research Blogger · Generative AI Consultant · Local AI Engineer · Open Source Developer*
 
 📍 Chennai, India &nbsp;|&nbsp; 🏠 [Canonical Website](https://thomascherickal.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/thomascherickal) &nbsp;|&nbsp; 🔗 [All Links](https://linktr.ee/thomascherickal) &nbsp;|&nbsp; 🌐 [Portfolio Page](https://thomascherickal.github.io)
 
@@ -10,7 +10,7 @@
 
 Developer | Writer | Researcher | Author | AI Engineer
 
-I build at the bleeding edge of Generative AI, AI systems engineering, cross-domain expertise, SLM deployment, and technical research storytelling. From engineering local LLM stacks to writing 10,000-word deep dives on frontier models: I turn complexity into clarity and code into production value. I believe Rust is the future of AI and programming, and I want to be an early adopter and work as a Rust AI Engineer. I dream of rewriting the AI stack and the Generative AI stack in Rust. I am also fluent in Claude Code and Antigravity.
+I build at the bleeding edge of Generative AI, AI systems engineering, cross-domain expertise, SLM deployment, and technical research storytelling. From engineering local LLM stacks to writing 10,000-word deep dives on frontier models: I turn complexity into clarity and code into production value. I believe Rust is the future of AI and programming, and I want to be an early adopter and work as a Rust AI Engineer. I dream of rewriting the AI stack, working with Go infrastructure, and building a capable Generative AI stack in Rust. I am also fluent in Claude Code and Antigravity.
 
 My canonical site is [thomascherickal.com](https://thomascherickal.com) <br>
 My portfolio page is [thomascherickal.github.io](https://thomascherickal.github.io)
@@ -21,7 +21,7 @@ My portfolio page is [thomascherickal.github.io](https://thomascherickal.github.
 
 | Role | Description |
 |---|---|
-| **Rust/Python AI/ML Engineer** | I convert Python code to reliable Rust systems with 100% code coverage and Test-Driven Development |
+| **Rust/Go/Python AI/ML Engineer** | I convert Python code to reliable Rust systems with Go infrastructure, and I aim for 100% code coverage with Test-Driven Development |
 | **Technical Content Writer** | Long-form articles, deep dives, and opinion pieces on AI, Quantum, Web3, and Cybersecurity |
 | **AI Mentor & Coach** | One-on-one guidance for individuals navigating AI tools, skills, and career transitions |
 | **Independent Research Blogger** | Original analysis and commentary on emerging technology trends |
