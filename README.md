@@ -1,71 +1,85 @@
-# Shalom 👋
+# Hi 👋 I'm Thomas Cherickal
 
-**Thomas Cherickal** - Generative AI Consultant - Generative AI Trainer - Generative AI Mentor
+**Technical Writer · Generative AI · Quantum Computing · The Digital Futurist (2020–present)**
 
-📍 Chennai, India | 🌐 [thomascherickal.com](https://thomascherickal.com) · [thomascherickal.github.io](https://thomascherickal.github.io) | 💼 [LinkedIn](https://linkedin.com/in/thomascherickal)
+📍 Chennai, India
 
----
+🌐 [Website](https://thomascherickal.com) · 💻️ [Services](https://thomascherickal.github.io)
 
-## What I Actually Do
-
-I write 500+ published articles on AI - and I write the code behind them.
-
-Most people do one or the other. I do both, and each one sharpens the other. When I explain a quantization pipeline to 50,000 readers, I have already built it. When I build it, I already know which part will confuse everyone.
-
-My bet - Rust is the future of the AI stack.
-
-Python owns the research layer and always will. 
-But inference servers, agent runtimes, quantization tooling, and edge deployment need memory safety, predictable latency, and no GIL. That is Rust territory. 
-Go handles the infrastructure around it.
-
-I am building toward that stack, one tested crate at a time.
+💼 [LinkedIn](https://linkedin.com/in/thomascherickal) · [HackerNoon](https://hackernoon.com/u/thomascherickal)
 
 ---
 
-## Three Roles
+## What I Do 🎯
 
-| Role | What it means in practice |
-| --- | --- |
-| **Rust / Python / Go AI Engineer** | Porting Python AI workloads to Rust systems with Go infrastructure. TDD throughout, targeting 100% coverage. Local-first and edge deployment of small language models. |
-| **Technical Content Writer** | Long-form deep dives on Generative AI, LLM and SLM engineering, and Quantum Computing. 500+ articles across 10+ platforms since 2020. |
-| **AI Consultant** | Practical AI integration advisory and one-on-one upskilling for individuals and small teams - from first prompt to production deployment. |
+- I write about Generative AI, AI Agents, Quantum Computing, Blockchain, and other SOTA Technology for a living.
+
+- 500+ published articles. 10+ platforms. Since 2020.
+
+- I hold a postgraduate degree in computer science and was trained as a developer.
+
+- Most technical writers describe code. I can dissect it, write additional features, open pull requests, and more.
 
 ---
 
-## Technical Focus
+## One Job, Three Layers 🧩
 
-**Languages**
+- ✍️ **The Writing** — Long-form deep dives on Generative AI, LLM/SLM engineering, Quantum Computing, QAI, and more.
 
-- Rust - systems, inference tooling, CLI, async with Tokio
-- Python - the AI research and prototyping layer
-- Go - services, infrastructure, and concurrency
+- 🥷 **Audience** — Targeted for developers who want real depth and CXOs who want straight answers.
 
-**Generative AI**
+- 🔬 **The Verification** — A developer's postgraduate degree behind every claim. I read the source and run the tests.
 
-- LLM and SLM engineering: quantization, GGUF
-- Local-first and sovereign deployment - Ollama, llama.cpp, on-device inference
-- Agentic systems, MCP servers, and tool-using AI workflows
+- ✅ **The Standard** — If the code is in the article, it compiled, it ran, and it passed. No pseudocode dressed up as production.
 
-**Test-Driven Development**
+---
+
+## What I Write About — And Can Actually Run 🛠️
+
+### Languages
+
+- 🦀 Rust — systems, inference tooling, CLI, async with Tokio
+
+- 🐍 Python — the AI research and prototyping layer
+
+- 🐹 Go — services, infrastructure, concurrency
+
+### Generative AI 🤖
+
+- LLM and SLM engineering — quantization, GGUF
+
+- Local-first and sovereign deployment — LM Studio, llama.cpp, on-device inference
+
+- Agentic systems, MCP servers, tool-using AI workflows
+
+### Test-Driven Development 🧪
 
 - PyTest, cargo test, Go's testing package
-- 100% coverage as a target, with the discipline to admit when it costs more than it earns
+
+- 100% coverage as a target — with the discipline to admit when it costs more than it earns
+
 - SOLID principles, design patterns, clean architecture
 
-**Quantum Computing**
+### Quantum Computing ⚛️
 
 - IBM Qiskit, Google Cirq, PennyLane
+
 - Quantum machine learning and variational circuits
-- Where quantum genuinely helps AI - and where the hype outruns the hardware
+
+- Where quantum genuinely helps AI — and where the hype outruns the hardware
 
 ---
 
-## Writing
+## Writing ✏️
 
-500+ long-form articles. 10+ platforms. Since 2020.
+- 500+ long-form articles
+
+- 10+ platforms
+
+- Since 2020
 
 | Platform | Link |
-| --- | --- |
+|---|---|
 | HackerNoon | [hackernoon.com/u/thomascherickal](https://hackernoon.com/u/thomascherickal) |
 | Medium | [thomascherickal.medium.com](https://thomascherickal.medium.com) |
 | Substack | [thomascherickal.substack.com](https://thomascherickal.substack.com) |
@@ -73,45 +87,53 @@ I am building toward that stack, one tested crate at a time.
 | LinkedIn | [linkedin.com/in/thomascherickal](https://linkedin.com/in/thomascherickal) |
 | All links | [linktr.ee/thomascherickal](https://linktr.ee/thomascherickal) |
 
-Canonical: [thomascherickal.com](https://thomascherickal.com) · Portfolio: [thomascherickal.github.io](https://thomascherickal.github.io)
+📌 Canonical: [thomascherickal.com](https://thomascherickal.com) · Portfolio: [thomascherickal.github.io](https://thomascherickal.github.io)
 
 ---
 
-## Book - *RECRUITED*
+## Book — RECRUITED 📖
 
-> *The AI-powered career development playbook for the age of intelligent machines.*
+- The AI-powered career development playbook for the age of intelligent machines.
 
-Personal brand architecture, AI tool fluency, LinkedIn strategy, and a structured six-month roadmap.
+- Personal brand architecture, AI tool fluency, LinkedIn strategy, and a structured six-month roadmap.
 
-**Pre-order: $5 USD** - free with an active Patreon subscription.
-[patreon.com/thomascherickal](https://patreon.com/thomascherickal)
+- 💰 **$10 USD pre-order · $20 USD after release** — priced low on purpose, so as many people as possible can afford it and benefit from it.
 
----
+- 🆓 Free with an active Patreon subscription.
 
-## Work With Me
-
-| Service | Link |
-| --- | --- |
-| 🗓️ 1-on-1 Consultations | [topmate.io/thomascherickal](https://topmate.io/thomascherickal) |
-| 🛒 Digital Products & Playbooks | [thomascherickal.gumroad.com](https://thomascherickal.gumroad.com) |
-| 📚 Exclusive Member Content | [patreon.com/thomascherickal](https://patreon.com/thomascherickal) |
-
-**Open to:**  Technical writing collaborations · AI consulting · Course collaborations · AI mentoring at every level
-
-Free first conversation: [connect on LinkedIn](https://linkedin.com/in/thomascherickal).
+- 👉 [patreon.com/thomascherickal](https://patreon.com/thomascherickal)
 
 ---
 
-## Beyond the Terminal
+## Work With Me 🤝
 
-I sing 1st Bass in four-part choral harmony and I play the violin. 
-I love God, my family, my friends, and my pets. 
-I also love swimming, badminton, table tennis, hot chocolate, and coffee strong enough to stand a spoon in.
+- 🗓️ **1-on-1 Consultations** → [topmate.io/thomascherickal](https://topmate.io/thomascherickal)
 
-I am a creative by calling who happens to write code. Both halves are the same job, in their true essence.
+- 🛒 **Digital Products & Playbooks** → [thomascherickal.gumroad.com](https://thomascherickal.gumroad.com)
 
-All the very best to you!
+- 📚 **Exclusive Member Content** → [patreon.com/thomascherickal](https://patreon.com/thomascherickal)
 
+### Open to 🚀
+
+- Commissioned developer content
+
+- Enterprise white papers for CXOs
+
+- Sponsored technical deep dives
+
+- Course collaborations
+
+- SOTA explainers and game-changing features
+
+- Explaining complex and difficult topics to a general audience
+
+- No ghostwriting articles or books
+
+- No SEO link-placement at any cost
+
+💬 Free first conversation — just connect on [LinkedIn](https://linkedin.com/in/thomascherickal).
 ---
 
-*© 2026 Thomas Cherickal · The Digital Futurist (2020–present) · [thomascherickal.com](https://thomascherickal.com) · [thomascherickal.github.io](https://thomascherickal.github.io) · Chennai, India*
+**I sincerely hope we can work together** 🙏
+
+© 2026 Thomas Cherickal · The Digital Futurist (2020–present) · thomascherickal.com · thomascherickal.github.io · Soli Deo Gloria!
