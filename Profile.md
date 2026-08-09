@@ -4,15 +4,19 @@
 
 📍 Chennai, India
 
-🌐 [Website](https://thomascherickal.com) · 💻️ [Portfolio](https://thomascherickal.github.io)
+🌐 [Website](https://thomascherickal.com) · 
 
-💼 [LinkedIn](https://linkedin.com/in/thomascherickal) · [HackerNoon](https://hackernoon.com/u/thomascherickal)
+💻️ [Portfolio](https://thomascherickal.github.io)
+
+💼 [LinkedIn](https://linkedin.com/in/thomascherickal) · 
+
+⌚️ [HackerNoon](https://hackernoon.com/u/thomascherickal)
 
 ---
 
 ## What I Do 🎯
 
-- I write about Generative AI, AI Agents, Quantum Computing, Blockchain, and other SOTA Technology for a living.
+- I write about Generative AI, AI Agents, Quantum Computing, LLMs, SLMs, QAI, QML, and other SOTA Technology for a living.
 
 - 500+ published articles. 10+ platforms. Since 2020.
 
@@ -38,11 +42,11 @@
 
 ### Languages
 
-- 🦀 Rust — systems, inference tooling, CLI, async with Tokio
+🦀 Rust — systems, inference tooling, CLI, async with Tokio — serde, rayon, crossbeam, reqwest, clap, actix-web, Candle, Burn
 
-- 🐍 Python — the AI research and prototyping layer
+🐍 Python — AI research and AI engineering layer — PyTorch, scikit-learn, IBM Qiskit, PennyLane, HuggingFace, AI Agents
 
-- 🐹 Go — services, infrastructure, concurrency
+🐹 Go — services, cloud infrastructure, concurrency — Gin, gRPC, Prometheus, Go Kit, OpenTelemetry, Docker
 
 ### Generative AI 🤖
 
@@ -136,4 +140,5 @@
 
 **I sincerely hope we can work together** 🙏
 
-© 2026 Thomas Cherickal · The Digital Futurist (2020–present) · thomascherickal.com · thomascherickal.github.io · Remote
+© 2026 Thomas Cherickal · The Digital Futurist (2020–present) · thomascherickal.com · thomascherickal.github.io · Remote Work · Hybrid Work 
+
