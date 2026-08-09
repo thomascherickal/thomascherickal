@@ -1,10 +1,10 @@
 # Hi 👋 I'm Thomas Cherickal
 
-**Technical Writer · Generative AI · Quantum Computing · The Digital Futurist (2020–present)**
+**Technical Writer · Generative AI · AI Agents · Quantum Computing · QAI · QML · The Digital Futurist (2020–present)**
 
 📍 Chennai, India
 
-🌐 [Website](https://thomascherickal.com) · 💻️ [Services](https://thomascherickal.github.io)
+🌐 [Website](https://thomascherickal.com) · 💻️ [Portfolio](https://thomascherickal.github.io)
 
 💼 [LinkedIn](https://linkedin.com/in/thomascherickal) · [HackerNoon](https://hackernoon.com/u/thomascherickal)
 
@@ -129,11 +129,11 @@
 
 - No ghostwriting articles or books
 
-- No SEO link-placement at any cost
+- No SEO link placement at any cost
 
-💬 Free first conversation — just connect on [LinkedIn](https://linkedin.com/in/thomascherickal).
+- Free first conversation with a fast response — connect anytime on [LinkedIn](https://linkedin.com/in/thomascherickal).
 ---
 
 **I sincerely hope we can work together** 🙏
 
-© 2026 Thomas Cherickal · The Digital Futurist (2020–present) · thomascherickal.com · thomascherickal.github.io · Soli Deo Gloria!
+© 2026 Thomas Cherickal · The Digital Futurist (2020–present) · thomascherickal.com · thomascherickal.github.io · Remote
