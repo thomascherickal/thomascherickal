@@ -4,11 +4,11 @@
 
 📍 Chennai, India
 
-🌐 [Profile Canonical Website](https://thomascherickal.com) · 
+🌐 [Profile Canonical Website](https://thomascherickal.com) 
 
 💻️ [Detailed Portfolio Services](https://thomascherickal.github.io)
 
-💼 [LinkedIn Profile Page](https://linkedin.com/in/thomascherickal) · 
+💼 [LinkedIn Profile Page](https://linkedin.com/in/thomascherickal) 
 
 ⌚️ [HackerNoon Tehnology Writing](https://hackernoon.com/u/thomascherickal)
 
