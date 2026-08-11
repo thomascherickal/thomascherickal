@@ -143,5 +143,5 @@
 
 ---
 
-© 2026 Thomas Cherickal · The Digital Futurist (2020–present) · thomascherickal.com · thomascherickal.github.io · Remote Work · Hybrid Work 
+© 2026 Thomas Cherickal · The Digital Futurist · thomascherickal.com · thomascherickal.github.io · Remote Work · Hybrid Work 
 
