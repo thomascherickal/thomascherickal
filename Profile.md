@@ -1,16 +1,16 @@
 # Hi 👋 I'm Thomas Cherickal
 
-**Technical Writer · Generative AI · AI Agents · Quantum Computing · QAI · QML · The Digital Futurist (2020–present)**
+**Emerging Technology Educator · Generative AI · AI Agents · Quantum Computing · QAI · QML · The Digital Futurist (2020–present)**
 
 📍 Chennai, India
 
-🌐 [Website](https://thomascherickal.com) · 
+🌐 [Profile Canonical Website](https://thomascherickal.com) · 
 
-💻️ [Portfolio](https://thomascherickal.github.io)
+💻️ [Detailed Portfolio Services](https://thomascherickal.github.io)
 
-💼 [LinkedIn](https://linkedin.com/in/thomascherickal) · 
+💼 [LinkedIn Profile Page](https://linkedin.com/in/thomascherickal) · 
 
-⌚️ [HackerNoon](https://hackernoon.com/u/thomascherickal)
+⌚️ [HackerNoon Tehnology Writing](https://hackernoon.com/u/thomascherickal)
 
 ---
 
@@ -22,7 +22,7 @@
 
 - I hold a postgraduate degree in computer science and was trained as a developer.
 
-- Most technical writers describe code. I can dissect it, write additional features, open pull requests, and more.
+- Most technical writers describe code. I can write it, dissect it, add additional features, open pull requests, and more.
 
 ---
 
@@ -34,7 +34,7 @@
 
 - 🔬 **The Verification** — A developer's postgraduate degree behind every claim. I read the source and run the tests.
 
-- ✅ **The Standard** — If the code is in the article, it compiled, it ran, and it passed. No pseudocode dressed up as production.
+- ✅ **The Standard** — If the code is in the article, it compiled, it ran, and it passed.
 
 ---
 
@@ -45,8 +45,6 @@
 🦀 Rust — systems, inference tooling, CLI, async with Tokio — serde, rayon, crossbeam, reqwest, clap, actix-web, Candle, Burn
 
 🐍 Python — AI research and AI engineering layer — PyTorch, scikit-learn, IBM Qiskit, PennyLane, HuggingFace, AI Agents
-
-🐹 Go — services, cloud infrastructure, concurrency — Gin, gRPC, Prometheus, Go Kit, OpenTelemetry, Docker
 
 ### Generative AI 🤖
 
@@ -136,9 +134,10 @@
 - No SEO link placement at any cost
 
 - Free first conversation with a fast response — connect anytime on [LinkedIn](https://linkedin.com/in/thomascherickal).
----
 
-**I sincerely hope we can work together** 🙏
+**I look forward to empowering your company for the Generative AI and/or Quantum Computing age.** 🙏
+
+---
 
 © 2026 Thomas Cherickal · The Digital Futurist (2020–present) · thomascherickal.com · thomascherickal.github.io · Remote Work · Hybrid Work 
 
