@@ -115,6 +115,8 @@
 
 - 📚 **Exclusive Member Content** → [patreon.com/thomascherickal](https://patreon.com/thomascherickal)
 
+---
+
 ### Open to 🚀
 
 - Commissioned developer content
@@ -134,6 +136,8 @@
 - No SEO link placement at any cost
 
 - Free first conversation with a fast response — connect anytime on [LinkedIn](https://linkedin.com/in/thomascherickal).
+
+---
 
 **I look forward to empowering your company for the Generative AI and/or Quantum Computing age.** 🙏
 
