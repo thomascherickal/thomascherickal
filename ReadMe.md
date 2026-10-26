@@ -66,13 +66,13 @@
 
 # Hi 👋 I'm Thomas Cherickal
 
-**Emerging Technology Educator · Generative AI · AI Agents · Quantum Computing · QAI · QML · The Digital Futurist (2020–present)**
+**Generative AI Consultant · AI Agent Orchestrator · Quantum Computing Explorer · Claude AI Ecosystem · Gemini AI Ecosystem · The Digital Futurist**
 
 📍 Chennai, India
 
-🌐 [Profile Canonical Website](https://thomascherickal.com) 
+🌐 [Profile Canonical Blog](https://thomascherickal.com) 
 
-💻️ [Detailed Portfolio Services](https://thomascherickal.github.io)
+💻️ [Detailed Business Services](https://thomascherickal.github.io)
 
 💼 [LinkedIn Profile Page](https://linkedin.com/in/thomascherickal) 
 
@@ -82,13 +82,13 @@
 
 ## What I Do 🎯
 
-- I write about Generative AI, AI Agents, Quantum Computing, LLMs, SLMs, QAI, QML, and other SOTA Technology for a living.
+- I work as a Generative AI Consultant, training freshers, developers, management, CXOs and others to become AI experts.
+
+- I still write about Generative AI, AI Agents, Quantum Computing, LLMs, SLMs, and other SOTA Technology for a living.
 
 - 500+ published articles. 10+ platforms. Since 2020.
 
 - I hold a postgraduate degree in computer science and was trained as a developer.
-
-- Most technical writers describe code. I can write it, dissect it, add additional features, open pull requests, and more.
 
 ---
 
