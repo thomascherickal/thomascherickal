@@ -56,13 +56,6 @@
   <img src="https://streak-stats.demolab.com/?user=thomascherickal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <!-- LeetCode Real-time Metrics Card -->
-  <a href="https://leetcode.com/u/thomascherickal">
-    <img src="https://leetcard.jacoblin.cool/thomascherickal?theme=dark&font=source_code_pro" alt="LeetCode Stats" />
-  </a>
-</p>
-
 
 # Hi 👋 I'm Thomas Cherickal
 
@@ -92,27 +85,29 @@
 
 ---
 
-## One Job, Three Layers 🧩
-
-- ✍️ **The Writing** — Long-form deep dives on Generative AI, LLM/SLM engineering, Quantum Computing, QAI, and more.
-
-- 🥷 **Audience** — Targeted for developers who want real depth and CXOs who want straight answers.
-
-- 🔬 **The Verification** — A developer's postgraduate degree behind every claim. I read the source and run the tests.
-
-- ✅ **The Standard** — If the code is in the article, it compiled, it ran, and it passed.
-
----
-
-## What I Write About — And Can Actually Run 🛠️
+## What I Work In — And Can Actually Run 🛠️
 
 ### Languages
 
-🦀 Rust — systems, inference tooling, CLI, async with Tokio — serde, rayon, crossbeam, reqwest, clap, actix-web, Candle, Burn
+🦀 Rust — systems, inference tooling, CLI, async with Tokio — serde, rayon, crossbeam,  Candle, Burn
 
-🐹 Go — cloud-native, distributed systems, high-concurrency microservices, gin, fiber, gRPC, cobra, viper, goroutines/channels
+🐹 Go — cloud-native, distributed systems, high-concurrency microservices, gRPC, goroutines/channels
 
-🐍 Python — Generative AI architectures, local LLM orchestration, PyTorch, Hugging Face, vLLM, LangChain, LlamaIndex, FastAPI
+🐍 Python — Generative AI architectures, local LLM orchestration, PyTorch, Hugging Face, FastAPI
+
+🔴 Julia — Scientific machine learning (SciML), differentiable programming, distributed numerical computing
+
+🔵 C — Embedded ML runtimes, bare-metal inference engines, GGML core primitives, BLAS/LAPACK bindings
+
+⚙️ C++ — High-throughput inference backends, llama.cpp, TensorRT-LLM, ONNX Runtime execution providers
+
+🎭 Claude — Extended-context reasoning, multimodal document synthesis, tool-use and agentic function calling, 
+
+✨ Gemini — Native multimodal processing (audio/video/vision), massive 1M+ token context routing, structured outputs
+
+🖥️ LM Studio — GGUF quantization benchmarking, OpenAI-compatible local endpoints, hardware-constrained testing
+
+## Major Specialization
 
 ### Generative AI 🤖
 
@@ -187,9 +182,9 @@
 
 ### Open to 🚀
 
-- Commissioned developer content
+- Commissioned development work
 
-- Enterprise white papers for CXOs
+- Content work for CXOs
 
 - Sponsored technical deep dives
 
