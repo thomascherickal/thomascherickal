@@ -112,7 +112,7 @@
 
 🐹 Go — cloud-native, distributed systems, high-concurrency microservices, gin, fiber, gRPC, cobra, viper, goroutines/channels
 
-🐍 Python —  PyTorch, scikit-learn, IBM Qiskit, PennyLane, HuggingFace, AI Agents
+🐍 Python — Generative AI architectures, local LLM orchestration, PyTorch, Hugging Face, vLLM, LangChain, LlamaIndex, FastAPI
 
 ### Generative AI 🤖
 
