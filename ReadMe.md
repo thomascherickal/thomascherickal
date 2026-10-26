@@ -68,7 +68,7 @@
 
 💼 [LinkedIn Profile Page](https://linkedin.com/in/thomascherickal) 
 
-⌚️ [HackerNoon Tehnology Writing](https://hackernoon.com/u/thomascherickal)
+⌚️ [HackerNoon Technology Writing](https://hackernoon.com/u/thomascherickal)
 
 ---
 
