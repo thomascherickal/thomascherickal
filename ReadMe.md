@@ -43,7 +43,7 @@
 
 <p align="center">
   <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=thomascherickal&base=5000&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=thomascherickal&base=5328&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
