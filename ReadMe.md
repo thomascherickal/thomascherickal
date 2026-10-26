@@ -78,7 +78,9 @@
 
 🦀 Rust — systems, inference tooling, CLI, async with Tokio — serde, rayon, crossbeam, reqwest, clap, actix-web, Candle, Burn
 
-🐍 Python — AI research and AI engineering layer — PyTorch, scikit-learn, IBM Qiskit, PennyLane, HuggingFace, AI Agents
+🐹 Go — cloud-native, distributed systems, high-concurrency microservices, gin, fiber, gRPC, cobra, viper, goroutines/channels
+
+🐍 Python —  PyTorch, scikit-learn, IBM Qiskit, PennyLane, HuggingFace, AI Agents
 
 ### Generative AI 🤖
 
@@ -105,6 +107,61 @@
 - Where quantum genuinely helps AI — and where the hype outruns the hardware
 
 ---
+
+<p align="center">
+  <!-- Dynamic Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=180&section=header&text=Thomas%20Cherickal&fontSize=42&fontAlignY=35&desc=AI%20Systems%20%7C%20High-Performance%20Computing%20%7C%20Open-Source&descAlignY=58&descSize=18&theme=tokyonight" alt="Profile Banner" width="100%" />
+</p>
+
+<p align="center">
+  <!-- Typing SVG Headline -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+Local+AI+Inference+Systems;Exploring+Rust%2C+Go%2C+Python+%26+Quantum+Computing;Solving+Algorithmic+Challenges" alt="Typing SVG Headline" />
+</p>
+
+<p align="center">
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=thomascherickal&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/thomascherickal">
+    <img src="https://github-profile-trophy.vercel.app/?username=thomascherickal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thomascherickal&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="95%" />
+</p>
+
+<p align="center">
+  <!-- Core GitHub Stats & Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=thomascherickal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomascherickal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <!-- Commit Streak Counter -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thomascherickal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Productive Time Distribution Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thomascherickal&theme=tokyonight" alt="GitHub Profile Details Card" />
+</p>
+
+<p align="center">
+  <!-- LeetCode Real-time Metrics Card -->
+  <a href="https://leetcode.com/u/thomascherickal">
+    <img src="https://leetcard.jacoblin.cool/thomascherickal?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Dynamic Dev Quotes Card -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Quote Card" />
+</p>
 
 ## Writing ✏️
 
