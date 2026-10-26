@@ -38,24 +38,12 @@
 
 <p align="center">
   <!-- Typing SVG Headline -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+Local+AI+Inference+Systems;Exploring+Rust%2C+Go%2C+Python+%26+Golang;Solving+Algorithmic+Challenges" alt="Typing SVG Headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+Local+AI+Inference+Systems;Exploring+Rust%2C+Go%2C+Python;Solving+Algorithmic+Challenges;Creating+Multi-Platform+PWAs;Research+In++Quantum+Computing;Building+Generative+AI+Devtools;" alt="Typing SVG Headline" />
 </p>
 
 <p align="center">
   <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=thomascherickal&base=2000&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/thomascherickal">
-    <img src="https://github-profile-trophy.vercel.app/?username=thomascherickal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thomascherickal&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="95%" />
+  <img src="https://komarev.com/ghpvc/?username=thomascherickal&base=5000&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
