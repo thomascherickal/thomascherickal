@@ -202,7 +202,7 @@
 
 ---
 
-**I look forward to empowering your company for the Generative AI and/or Quantum Computing age.** 🙏
+**I look forward to empowering your company for the Age of Generative AI.**🙏
 
 ---
 
