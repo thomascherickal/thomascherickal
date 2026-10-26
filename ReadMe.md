@@ -1,3 +1,37 @@
+<p align="center">
+  <!-- Core Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia" />
+  <br />
+  <!-- Web Technologies -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <br />
+  <!-- AI & Local Inference -->
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Gemma-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemma" />
+  <img src="https://img.shields.io/badge/LM--Studio-24292E?style=for-the-badge&logoColor=white" alt="LM Studio" />
+  <br />
+  <!-- Competitive Coding & Platforms -->
+  <a href="https://leetcode.com/u/thomascherickal"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://hackerrank.com/thomascherickal"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+  <a href="https://hackerearth.com/@thomascherickal"><img src="https://img.shields.io/badge/HackerEarth-323330?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth" /></a>
+  <a href="https://codewars.com/users/thomascherickal"><img src="https://img.shields.io/badge/CodeWars-AD2C27?style=for-the-badge&logo=codewars&logoColor=white" alt="CodeWars" /></a>
+  <br />
+  <a href="https://kaggle.com/thomascherickal"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://exercism.org/profiles/thomascherickal"><img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" alt="Exercism" /></a>
+  <a href="https://profile.codersrank.io/user/thomascherickal"><img src="https://img.shields.io/badge/CodersRank-0E141E?style=for-the-badge&logoColor=white" alt="CodersRank" /></a>
+  <a href="https://opencode.net/thomascherickal"><img src="https://img.shields.io/badge/OpenCode-4B32C3?style=for-the-badge&logoColor=white" alt="OpenCode" /></a>
+</p>
+
+
 # Hi 👋 I'm Thomas Cherickal
 
 **Emerging Technology Educator · Generative AI · AI Agents · Quantum Computing · QAI · QML · The Digital Futurist (2020–present)**
