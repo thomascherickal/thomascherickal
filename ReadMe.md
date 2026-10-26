@@ -12,12 +12,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <br />
-  <!-- AI & Local Inference -->
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Gemma-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemma" />
-  <img src="https://img.shields.io/badge/LM--Studio-24292E?style=for-the-badge&logoColor=white" alt="LM Studio" />
-  <br />
   <!-- Competitive Coding & Platforms -->
   <a href="https://leetcode.com/u/thomascherickal"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://hackerrank.com/thomascherickal"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
@@ -28,6 +22,20 @@
   <a href="https://exercism.org/profiles/thomascherickal"><img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" alt="Exercism" /></a>
   <a href="https://profile.codersrank.io/user/thomascherickal"><img src="https://img.shields.io/badge/CodersRank-0E141E?style=for-the-badge&logoColor=white" alt="CodersRank" /></a>
   <a href="https://opencode.net/thomascherickal"><img src="https://img.shields.io/badge/OpenCode-4B32C3?style=for-the-badge&logoColor=white" alt="OpenCode" /></a>
+  <br />
+  <!-- AI Models & Local Inference -->
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Gemma-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemma" />
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" />
+  <img src="https://img.shields.io/badge/Mistral%20AI-FD5700?style=for-the-badge&logo=mistralai&logoColor=white" alt="Mistral AI" />
+  <br />
+  <img src="https://img.shields.io/badge/Llama-046BD2?style=for-the-badge&logo=meta&logoColor=white" alt="Llama" />
+  <img src="https://img.shields.io/badge/Qwen-615EFF?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Qwen" />
+  <img src="https://img.shields.io/badge/Microsoft%20Phi-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Phi" />
+  <img src="https://img.shields.io/badge/LM--Studio-24292E?style=for-the-badge&logoColor=white" alt="LM Studio" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />     
+</p>
 </p>
 
 <p align="center">
@@ -48,6 +56,8 @@
 <p align="center">
   <!-- Core GitHub Stats & Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api?username=thomascherickal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomascherickal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br />
 </p>
 
 <p align="center">
@@ -199,7 +209,12 @@
 
 ---
 
-**I look forward to empowering your company for the Age of Generative AI.**🙏
+**I look forward to empowering your company for the Age of Generative AI.** 🙏
+
+<!-- Communication & Messaging Badges -->
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919884452724)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thomascherickal)
+<a href="https://x.com/thomazcherickal"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 
 ---
 
