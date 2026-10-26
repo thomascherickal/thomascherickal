@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia" />
   <br />
   <!-- Web Technologies -->
@@ -98,8 +97,6 @@
 🔴 Julia — Scientific machine learning (SciML), differentiable programming, distributed numerical computing
 
 🔵 C — Embedded ML runtimes, bare-metal inference engines, GGML core primitives, BLAS/LAPACK bindings
-
-⚙️ C++ — High-throughput inference backends, llama.cpp, TensorRT-LLM, ONNX Runtime execution providers
 
 🎭 Claude — Extended-context reasoning, multimodal document synthesis, tool-use and agentic function calling, 
 
