@@ -59,7 +59,7 @@
 <p align="center">
   <!-- LeetCode Real-time Metrics Card -->
   <a href="https://leetcode.com/u/thomascherickal">
-    <img src="https://leetcard.jacoblin.cool/thomascherickal?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/thomascherickal?theme=dark&font=source_code_pro" alt="LeetCode Stats" />
   </a>
 </p>
 
