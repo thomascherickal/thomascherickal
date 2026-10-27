@@ -68,7 +68,7 @@
 
 <p align="center">
   <!-- Commit Streak Counter -->
-  <img src="https://streak-stats.demolab.com/?user=thomascherickal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=thomascherickal&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="GitHub Streak" />
 </p>
 
 
