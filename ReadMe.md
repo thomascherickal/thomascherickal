@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia" />
   <br />
   <!-- Web Technologies -->
@@ -34,18 +35,23 @@
   <img src="https://img.shields.io/badge/Qwen-615EFF?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Qwen" />
   <img src="https://img.shields.io/badge/Microsoft%20Phi-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Phi" />
   <img src="https://img.shields.io/badge/LM--Studio-24292E?style=for-the-badge&logoColor=white" alt="LM Studio" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />     
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <br />
+  <!-- Communication & Social Links -->
+  <a href="https://linkedin.com/in/thomascherickal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/thomazcherickal"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://t.me/thomascherickal"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://wa.me/919884452724"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://discord.com/users/thomascherickal"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="mailto:thomascherickal@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-</p>
-
-<p align="center">
   <!-- Dynamic Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=180&section=header&text=Thomas%20Cherickal&fontSize=42&fontAlignY=35&desc=Generative%20AI%20Systems%20%7C%20High-Performance%20Computing%20%7C%20Open-Source&descAlignY=58&descSize=18&theme=tokyonight" alt="Profile Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=180&section=header&text=Thomas%20Cherickal&fontSize=42&fontAlignY=35&desc=Generative%20AI%20Consulting%20%7C%20High-Performance%20Computing%20%7C%20Open-Source&descAlignY=58&descSize=18&theme=tokyonight" alt="Profile Banner" width="100%" />
 </p>
 
 <p align="center">
   <!-- Typing SVG Headline -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+Local+AI+Inference+Systems;Exploring+Rust%2C+Go%2C+Python;Solving+Algorithmic+Challenges;Creating+Multi-Platform+PWAs;Research+In++Quantum+Computing;Building+Generative+AI+Devtools;" alt="Typing SVG Headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+Local+AI+Inference+Systems;Generative+AI+Consultant;Exploring+Rust%2C+Go%2C+Python;Solving+Algorithmic+Research+Challenges;Creating+Multi-Platform+PWAs;Research+In++Quantum+Computing;Building+Generative+AI+Systems;" alt="Typing SVG Headline" />
 </p>
 
 <p align="center">
@@ -82,11 +88,11 @@
 
 ---
 
-## What I Do 🎯
+## What I Do 
 
 - I work as a Generative AI Consultant, training freshers, developers, management, CXOs and others to become AI experts.
 
-- I still write about Generative AI, AI Agents, Quantum Computing, LLMs, SLMs, and other SOTA Technology for a living.
+- I still write sometimes about Generative AI, AI Agents, Quantum Computing, LLMs, SLMs, and other SOTA Technology as a hobby.
 
 - 500+ published articles. 10+ platforms. Since 2020.
 
@@ -94,7 +100,7 @@
 
 ---
 
-## What I Work In — And Can Actually Run 🛠️
+## What I Work In
 
 ### Languages
 
@@ -116,7 +122,7 @@
 
 ## Major Specialization
 
-### Generative AI 🤖
+### Generative AI 
 
 - LLM and SLM engineering — quantization, GGUF
 
@@ -124,7 +130,16 @@
 
 - Agentic systems, MCP servers, tool-using AI workflows
 
-### Test-Driven Development 🧪
+### Frontier AI
+
+- Claude AI Ecosystem — subagents, orchestration, Claude Desktop, Claude Duet
+  
+- Gemini AI Ecosystem — Multimodal generation, learning, Gemini Desktop, Gemini Spark
+
+- Open Weight LLMs — DeepSeek, Qwen, Gemma, Mistral, Llama, GLM, OpenCode
+ 
+
+### Test-Driven Development 
 
 - PyTest, cargo test, Go's testing package
 
@@ -159,11 +174,11 @@
 | LinkedIn | [linkedin.com/in/thomascherickal](https://linkedin.com/in/thomascherickal) |
 | All links | [linktr.ee/thomascherickal](https://linktr.ee/thomascherickal) |
 
-📌 Canonical: [thomascherickal.com](https://thomascherickal.com) · Portfolio: [thomascherickal.github.io](https://thomascherickal.github.io)
+Canonical: [thomascherickal.com](https://thomascherickal.com) · Portfolio: [thomascherickal.github.io](https://thomascherickal.github.io)
 
 ---
 
-## Book — RECRUITED 📖
+## Book — RECRUITED 
 
 - The AI-powered career development playbook for the age of intelligent machines.
 
@@ -177,7 +192,7 @@
 
 ---
 
-## Work With Me 🤝
+## Work With Me 
 
 - 🗓️ **1-on-1 Consultations** → [topmate.io/thomascherickal](https://topmate.io/thomascherickal)
 
@@ -187,7 +202,7 @@
 
 ---
 
-### Open to 🚀
+### Open to 
 
 - Commissioned development work
 
@@ -207,14 +222,7 @@
 
 - Free first conversation with a fast response — connect anytime on [LinkedIn](https://linkedin.com/in/thomascherickal).
 
----
-
-**I look forward to empowering your company for the Age of Generative AI.** 🙏
-
-<!-- Communication & Messaging Badges -->
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919884452724)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thomascherickal)
-<a href="https://x.com/thomazcherickal"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+**I look forward to empowering your company for the Age of Generative AI.** 
 
 ---
 
