@@ -184,7 +184,7 @@ Canonical: [thomascherickal.com](https://thomascherickal.com) · Portfolio: [tho
 
 - Personal brand architecture, AI tool fluency, LinkedIn strategy, and a structured six-month roadmap.
 
-- 💰 **$10 USD pre-order · $20 USD after release** — priced low on purpose, so as many people as possible can afford it and benefit from it.
+- 💰 **$20 USD pre-order · $40 USD after release** — priced low on purpose, so as many people as possible can afford it and benefit from it.
 
 - 🆓 Free with an active Patreon subscription.
 
