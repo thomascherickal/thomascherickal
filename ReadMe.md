@@ -46,7 +46,7 @@
   <a href="mailto:thomascherickal@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
   <!-- Dynamic Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=180&section=header&text=Thomas%20Cherickal&fontSize=42&fontAlignY=35&desc=Generative%20AI%20Consulting%20%7C%20High-Performance%20Computing%20%7C%20Open-Source&descAlignY=58&descSize=18&theme=tokyonight" alt="Profile Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=90&section=header&text=Thomas%20Cherickal&fontSize=42&fontAlignY=35&desc=Generative%20AI%20Consulting%20%7C%20High-Performance%20Computing%20%7C%20Open-Source&descAlignY=58&descSize=18&theme=tokyonight" alt="Profile Banner" width="90%" />
 </p>
 
 <p align="center">
@@ -55,29 +55,27 @@
 </p>
 
 <p align="center">
-  <!-- 1. Contribution Graph (ghchart: Ultra-fast CDN-cached SVG contribution calendar) -->
-  <img src="https://ghchart.rshah.org/7aa2f7/thomascherickal" alt="GitHub Contribution Chart" width="90%" />
+  <!-- Dark Theme Contribution Graph with Green Contributions -->
+  <img src="https://ssr-contributions-svg.vercel.app/_/thomascherickal?chart=calendar&format=svg&theme=dark&widget_size=medium&dark_color=39d353" alt="GitHub Contribution Chart" width="90%" />
+</p>
+<p align="center">
+  <!-- Top Languages & Summary Cards (vn7n24fzkq's Rust/Go-backed Edge API - fast response) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thomascherickal&theme=tokyonight" alt="Top Languages by Repo" />
 </p>
 
 <p align="center">
-  <!-- 2. Top Languages & Summary Cards (vn7n24fzkq's Rust/Go-backed Edge API - fast response) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thomascherickal&theme=tokyonight" alt="Top Languages by Repo" />
+  <!-- Top Languages & Summary Cards (vn7n24fzkq's Rust/Go-backed Edge API - fast response) -->  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thomascherickal&theme=tokyonight" alt="Top Languages by Commit" />
 </p>
 
 <p align="center">
-  <!-- 3. Full Activity Overview Card (Replaces broken Activity Graph & Trophies) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thomascherickal&theme=tokyonight" alt="GitHub Profile Details" width="95%" />
+  <!-- Commit VIewss Counter -->
+  <img src="https://streak-stats.demolab.com/?user=thomascherickal&theme=tokyonight&hide_border=true&card_width=800" alt="GitHub Commit Overview" width="95%" />
 </p>
 
 <p align="center">
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=thomascherickal&base=5328&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <!-- Commit Streak Counter -->
-  <img src="https://streak-stats.demolab.com/?user=thomascherickal&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="GitHub Streak" />
 </p>
 
 
