@@ -46,7 +46,7 @@
   <a href="mailto:thomascherickal@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
   <!-- Dynamic Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=180&section=header&text=Thomas%20Cherickal&fontSize=42&fontAlignY=35&desc=Generative%20AI%20Consulting%20%7C%20High-Performance%20Computing%20%7C%20Open-Source&descAlignY=58&descSize=18&theme=tokyonight" alt="Profile Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=240&section=header&text=Thomas%20Cherickal&fontSize=42&fontAlignY=35&desc=Generative%20AI%20Consulting%20%7C%20High-Performance%20Computing%20%7C%20Open-Source&descAlignY=58&descSize=18&theme=tokyonight" alt="Profile Banner" width="100%" />
 </p>
 
 <p align="center">
