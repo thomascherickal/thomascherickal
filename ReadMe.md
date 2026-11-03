@@ -213,21 +213,9 @@ Canonical: [thomascherickal.com](https://thomascherickal.com) · Portfolio: [tho
 
 ### Open to 
 
-- Commissioned development work
+- Training Businesses in Generative AI
 
-- Content work for CXOs
-
-- Sponsored technical deep dives
-
-- Course collaborations
-
-- SOTA explainers and game-changing features
-
-- Explaining complex and difficult topics to a general audience
-
-- No ghostwriting articles or books
-
-- No SEO link placement at any cost
+- Training Individuals in Generative AI
 
 - Free first conversation with a fast response — connect anytime on [LinkedIn](https://linkedin.com/in/thomascherickal).
 
