@@ -51,19 +51,28 @@
 
 <p align="center">
   <!-- Typing SVG Headline -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+Local+AI+Inference+Systems;Generative+AI+Consultant;Exploring+Rust%2C+Go%2C+Python;Solving+Algorithmic+Research+Challenges;Creating+Multi-Platform+PWAs;Research+In++Quantum+Computing;Building+Generative+AI+Systems;" alt="Typing SVG Headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+Local+AI+Inference+Systems;Generative+AI+Consultant;Creating+Multi-Platform+PWAs;Research+In++Quantum+Computing;Building+Generative+AI+Systems;" alt="Typing SVG Headline" />
+</p>
+
+<p align="center">
+  <!-- 1. Contribution Graph (ghchart: Ultra-fast CDN-cached SVG contribution calendar) -->
+  <img src="https://ghchart.rshah.org/7aa2f7/thomascherickal" alt="GitHub Contribution Chart" width="90%" />
+</p>
+
+<p align="center">
+  <!-- 2. Top Languages & Summary Cards (vn7n24fzkq's Rust/Go-backed Edge API - fast response) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thomascherickal&theme=tokyonight" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thomascherickal&theme=tokyonight" alt="Top Languages by Commit" />
+</p>
+
+<p align="center">
+  <!-- 3. Full Activity Overview Card (Replaces broken Activity Graph & Trophies) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thomascherickal&theme=tokyonight" alt="GitHub Profile Details" width="95%" />
 </p>
 
 <p align="center">
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=thomascherickal&base=5328&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <!-- Core GitHub Stats & Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=thomascherickal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=3600" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomascherickal&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="Top Languages" />
-  <br />
 </p>
 
 <p align="center">
