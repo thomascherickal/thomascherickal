@@ -183,7 +183,7 @@
 | LinkedIn | [linkedin.com/in/thomascherickal](https://linkedin.com/in/thomascherickal) |
 | All links | [linktr.ee/thomascherickal](https://linktr.ee/thomascherickal) |
 
-Canonical: [thomascherickal.com](https://thomascherickal.com) · Portfolio: [thomascherickal.github.io](https://thomascherickal.github.io)
+Canonical: [thomascherickal.com](https://thomascherickal.com) · Business: [thedigitalfuturist.com](https://thedigitalfuturist.com)
 
 ---
 
@@ -223,4 +223,4 @@ Canonical: [thomascherickal.com](https://thomascherickal.com) · Portfolio: [tho
 
 ---
 
-© 2026 Thomas Cherickal · The Digital Futurist · thomascherickal.com · thomascherickal.github.io · Remote Work · Hybrid Work 
+© 2026 Thomas Cherickal · The Digital Futurist · thomascherickal.com · thedigitalfuturist.com · Remote Work · Hybrid Work · On-Site Work 
