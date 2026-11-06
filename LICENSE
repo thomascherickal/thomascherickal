@@ -1,0 +1,38 @@
+PROPRIETARY SOURCE CODE LICENSE AND TERMS OF USE
+
+Copyright (c) 2026 Thomas Mathew Cherickal. All rights reserved.
+
+1. OWNERSHIP
+The Software, including all source code, binaries, documentation, assets, 
+and design files, is the sole and exclusive intellectual property of the 
+Copyright Holder. This Software is protected by applicable domestic and 
+international copyright, trade secret, and intellectual property laws.
+
+2. LIMITED VIEWING LICENSE
+Permission is granted solely to view and inspect the source code as made 
+available in this repository for evaluation, review, and personal educational 
+purposes. No other rights or licenses of any kind, whether express, implied, 
+or by estoppel, are granted hereunder.
+
+3. RESTRICTIONS
+Except as expressly permitted above, you may not:
+  (a) Copy, reproduce, distribute, publicly display, or transmit the Software;
+  (b) Modify, adapt, translate, or create derivative works from the Software;
+  (c) Sublicense, lease, sell, rent, loan, or commercially exploit the Software;
+  (d) Decompile, disassemble, or reverse-engineer any binary distributions;
+  (e) Use the Software to build, train, or optimize competitive commercial 
+      products or software services.
+
+4. RESERVATION OF RIGHTS
+Any right not explicitly granted in this agreement is strictly reserved by the 
+Copyright Holder. Commercial licensing, distribution partnerships, or rights 
+to incorporate this code into third-party applications must be agreed upon 
+via a separate, executed written contract.
+
+5. DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER 
+IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN 
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
