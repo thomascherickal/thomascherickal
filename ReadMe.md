@@ -176,14 +176,18 @@
 
 | Platform | Link |
 |---|---|
-| HackerNoon | [hackernoon.com/u/thomascherickal](https://hackernoon.com/u/thomascherickal) |
-| Medium | [thomascherickal.medium.com](https://thomascherickal.medium.com) |
-| Substack | [thomascherickal.substack.com](https://thomascherickal.substack.com) |
-| Hashnode | [hashnode.com/@thomascherickal](https://hashnode.com/@thomascherickal) |
-| LinkedIn | [linkedin.com/in/thomascherickal](https://linkedin.com/in/thomascherickal) |
-| All links | [linktr.ee/thomascherickal](https://linktr.ee/thomascherickal) |
+| HackerNoon  | [hackernoon.com/u/thomascherickal](https://hackernoon.com/u/thomascherickal) |
+| Master Blog | [thomascherickal.com](https://thomascherickal.com) |
+| Portfolio   | [portfolio.thedigitalfuturist.com](https://portfolio.thedigitalfuturist.com) |
+| Consulting  | [thedigitalfuturist.com](https://thedigitalfuturist.com) |
+| LinkedIn    | [linkedin.com/in/thomascherickal](https://linkedin.com/in/thomascherickal) |
+| All links   | [linktr.ee/thomascherickal](https://linktr.ee/thomascherickal) |
 
-Canonical: [thomascherickal.com](https://thomascherickal.com) · Business: [thedigitalfuturist.com](https://thedigitalfuturist.com)
+Coding Portfolio    :[portfolio.thedigitalfuturist.com](https://portfolio.thedigitalfuturist.com)  
+Writing Portfolio   :[thedigitalfuturist.com/writing.html](https://thedigitalfuturist.com/writing.html)
+Featured Articles:  :[thedigitalfuturist.com/articles.html](https://thedigitalfuturist.com/articles.html) 
+Business Consulting :[thedigitalfuturist.com](https://thedigitalfuturist.com)
+
 
 ---
 
@@ -223,4 +227,4 @@ Canonical: [thomascherickal.com](https://thomascherickal.com) · Business: [thed
 
 ---
 
-© 2026 Thomas Cherickal · The Digital Futurist · thomascherickal.com · thedigitalfuturist.com · Remote Work · Hybrid Work · On-Site Work 
+© 2026 Thomas Cherickal · The Digital Futurist · thomascherickal.com · thedigitalfuturist.com · Remote · Hybrid · On-Site 
