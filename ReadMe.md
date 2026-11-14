@@ -166,14 +166,16 @@
 
 ---
 
-## Writing ✏️
+## Portfolio
 
-- 500+ long-form articles
+- 48 featured articles
 
-- 10+ platforms
+- 12 article highlights
+  
+- 14 highlighted repos 
 
-- Since 2020
-
+- 63 public repos
+  
 | Platform | Link |
 |---|---|
 | HackerNoon  | [hackernoon.com/u/thomascherickal](https://hackernoon.com/u/thomascherickal) |
