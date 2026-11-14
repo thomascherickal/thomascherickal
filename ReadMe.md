@@ -185,7 +185,7 @@
 | LinkedIn    | [linkedin.com/in/thomascherickal](https://linkedin.com/in/thomascherickal) |
 | All links   | [linktr.ee/thomascherickal](https://linktr.ee/thomascherickal) |
 
----
+
 
 Coding Portfolio:     [portfolio.thedigitalfuturist.com](https://portfolio.thedigitalfuturist.com) 
 
