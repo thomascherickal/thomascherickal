@@ -185,11 +185,13 @@
 | LinkedIn    | [linkedin.com/in/thomascherickal](https://linkedin.com/in/thomascherickal) |
 | All links   | [linktr.ee/thomascherickal](https://linktr.ee/thomascherickal) |
 
-Coding Portfolio    :[portfolio.thedigitalfuturist.com](https://portfolio.thedigitalfuturist.com)  
-Writing Portfolio   :[thedigitalfuturist.com/writing.html](https://thedigitalfuturist.com/writing.html)
-Featured Articles:  :[thedigitalfuturist.com/articles.html](https://thedigitalfuturist.com/articles.html) 
-Business Consulting :[thedigitalfuturist.com](https://thedigitalfuturist.com)
+Coding Portfolio    :[portfolio.thedigitalfuturist.com](https://portfolio.thedigitalfuturist.com) 
 
+Writing Portfolio   :[thedigitalfuturist.com/writing.html](https://thedigitalfuturist.com/writing.html)
+
+Featured Articles:  :[thedigitalfuturist.com/articles.html](https://thedigitalfuturist.com/articles.html) 
+
+Business Consulting :[thedigitalfuturist.com](https://thedigitalfuturist.com)
 
 ---
 
