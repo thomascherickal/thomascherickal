@@ -51,7 +51,7 @@
 
 <p align="center">
   <!-- Typing SVG Headline -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+Local+AI+Inference+Systems;Generative+AI+Consultant;Creating+Multi-Platform+PWAs;Research+In++Quantum+Computing;Building+Generative+AI+Systems;" alt="Typing SVG Headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Python+Go+Rust+Developer;Generative+AI+Consultant+Developer;Creating+Multi-Platform+PWAs;Research+In+Quantum+Computing;Building+Generative+AI+Systems;Building+Open+Source+Projects" alt="Typing SVG Headline" />
 </p>
 
 <p align="center">
